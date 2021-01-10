@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "HTML FastTryer",
+    "description": "Try HTML quick",
+    "version": "1.0.0",
+    "icons": {"128": "Icon.png"},
+    "browser_action": {
+        "default_icon": "Icon_19.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
